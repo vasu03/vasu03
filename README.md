@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi there 👋! I am Vasu Makadia</h2>
+
+[![](https://visitcount.itsvg.in/api?id=vasu03&icon=8&color=9)](https://visitcount.itsvg.in)
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
+## 🛠️Languages and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -60,9 +59,40 @@
 
 ###
 
+## 🌏Social links
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/vasu-makadia"><img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  /></a>
+  <a href="https://discord.com/users/1013284675197878374"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  /></a>
+  
+</div>
+
+###
+
+## 📊Github Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vasu03&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="vasu03's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu03&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu03&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+
+</div>
+
+###
+
+## 🏆Github Trophies
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=vasu03&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+###
+
+## 🏷️Tech Quote
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ###
