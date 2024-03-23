@@ -70,7 +70,7 @@
 
 ## 📊Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vasu03&cache_seconds=21600&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=8&show_icons=true&icon_color=74f190&title_color=14b8a6&text_color=f4f4f5&bg_color=22272e" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vasu03&cache_seconds=21600&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=8&show_icons=true&icon_color=74f190&title_color=14b8a6&text_color=f4f4f5&bg_color=22272e" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vasu03&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu03&langs_count=10&hide_border=true&border_radius=8&show_icons=true&icon_color=74f190&title_color=14b8a6&text_color=f4f4f5&bg_color=22272e" /><br/>
 </div>
