@@ -63,6 +63,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/vasu-makadia"><img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  /></a>
   <a href="https://discord.com/users/1013284675197878374"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  /></a>
+  <a href="https://x.com/VasuMakadia03"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="Twitter logo"  /></a>
   
 </div>
 
