@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋! I am Vasu Makadia</h2>
 
-[![](https://visitcount.itsvg.in/api?id=vasu03&icon=8&color=9)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=vasu03&icon=8&color=9)](https://visitcount.itsvg.in) -->
 
 ###
 
@@ -28,17 +28,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
@@ -52,7 +46,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
@@ -62,13 +55,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  /> -->
+<!--   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  /> -->
+<!--   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /> -->
+<!--   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  /> -->
+<!--   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  /> -->
 </div>
 
 ###
@@ -86,7 +82,8 @@
 ## 📊Github Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vasu03&cache_seconds=21600&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=8&show_icons=true&icon_color=74f190&title_color=14b8a6&text_color=f4f4f5&bg_color=22272e" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vasu03&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /><br/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=vasu03&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /><br/> -->
+    <img src="https://streak-stats.demolab.com?user=vasu03&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu03&langs_count=10&hide_border=true&border_radius=8&show_icons=true&icon_color=74f190&title_color=14b8a6&text_color=f4f4f5&bg_color=22272e" /><br/>
 </div>
 
