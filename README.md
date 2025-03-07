@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
@@ -46,20 +44,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  /> -->
+<!--   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /> -->
 <!--   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  /> -->
 <!--   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  /> -->
 <!--   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /> -->
