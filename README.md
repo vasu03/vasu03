@@ -138,13 +138,17 @@
 # 🏆Github Trophies
 
 <div align="center">
+  
   ![](https://github-profile-trophy.vercel.app/?username=vasu03&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+  
 </div>
 
 # 🏷️Tech Quote
 
 <div align="center">
+  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
 </div>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=vasu03&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /><br/> -->
